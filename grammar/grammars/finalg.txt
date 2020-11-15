@@ -1,14 +1,34 @@
 WELCOME -> Welcome to Blackcofin x Supereduardus' grammogenmo!
 
+test -> <BUILDING>|<GEOGRAPHY>|<SAYLES>|<MOVIE>|<MATH>
+
 b -> $buildings.txt
 age -> old|new
+veg -> vegan|vegetarian|not vegan or vegetarian|not vegan|not vegetarian
+landmark -> Eifle Tower|Himalayas|Egyptian Pyramid|Statue of Liberty
+animal -> polar bears|lions|tigers|grizzly bears|cobras
+f -> Cheese Quesadilla|Buffalo Chicken Tender Plater|French Fries|Sweet Potato Fries|Curly Fries|Onion Rings
+m -> Star Wars|Emoji Movie|Parasite|The Lion King
 
 BUILDING ->When was <b> built?|How old is <b>?|What is <b> used for?|Which is <age>er: <b> or <b>?
 
 c -> $countries.txt
 
-GEOGRAPHY -> What is the capital of <c>?|Which continent is <c> on?|Which country is <age>er: <c> or <c>
+GEOGRAPHY -> What is the capital of <c>?|Which continent is <c> on?|Which country is <age>er: <c> or <c>|Which country and state is the <landmark> located?|<animal> are primarily found within _______ country.
 
-SAYLES ->How much is the <f> at Sayles?|Which item costs more: <f> or <f> 
+SAYLES ->How much is the <f> at Sayles?|Which item costs more: <f> or <f>?|Which of these items are <veg>: <f>, <f>, or <f>?
+
+MOVIE ->When was <m> released?|How much did <m> make on release?|Who was the director of the movie <m>?
 
 MATH -> <ddx>|<arithmetic>|<prob>|<integral>
+
+fn -> x²|ln(x)|eˣ|<fn><fn>
+n -> 1
+o -> +|-|/|*|**|│|&
+d -> Unif(0,n)|N(μ=<n>,σ²=<n>)|Exp(β=<n>)|Pois(λ=<n>)
+comp -> greater than|less than|equal to
+
+ddx -> What is the derivative of <fn> with respect to x?
+arithmetic -> Calculate <n> <o> <n>.
+prob -> Let X be a random variable with distribution <d>. What is the probability that x ~ X is <comp> <n>?
+integral -> Integrate <fn> dx.
