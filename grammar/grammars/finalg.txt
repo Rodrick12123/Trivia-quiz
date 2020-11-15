@@ -1,0 +1,14 @@
+WELCOME -> Welcome to Blackcofin x Supereduardus' grammogenmo!
+
+b -> $buildings.txt
+age -> old|new
+
+BUILDING ->When was <b> built?|How old is <b>?|What is <b> used for?|Which is <age>er: <b> or <b>?
+
+c -> $countries.txt
+
+GEOGRAPHY -> What is the capital of <c>?|Which continent is <c> on?|Which country is <age>er: <c> or <c>
+
+SAYLES ->How much is the <f> at Sayles?|Which item costs more: <f> or <f> 
+
+MATH -> <ddx>|<arithmetic>|<prob>|<integral>
