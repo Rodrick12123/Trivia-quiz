@@ -1,24 +1,35 @@
 WELCOME -> Welcome to Blackcofin x Supereduardus' grammogenmo!
 
 test -> <BUILDING>|<GEOGRAPHY>|<SAYLES>|<MOVIE>|<MATH>
+DOMAIN ->[BEGIN ENTITIES]\n<build>
 
 b -> $buildings.txt
 age -> old|new
-veg -> vegan|vegetarian|not vegan or vegetarian|not vegan|not vegetarian
-landmark -> Eifle Tower|Himalayas|Egyptian Pyramid|Statue of Liberty
+landmark -> Eiffel Tower|Himalayas|Egyptian Pyramid|Statue of Liberty
 animal -> polar bears|lions|tigers|grizzly bears|cobras
-f -> Cheese Quesadilla|Buffalo Chicken Tender Plater|French Fries|Sweet Potato Fries|Curly Fries|Onion Rings
+f -> Cheese Quesadilla|Buffalo Chicken Tender Platter|French Fries|Sweet Potato Fries|Curly Fries|Onion Rings
 m -> Star Wars|Emoji Movie|Parasite|The Lion King
 
 BUILDING ->When was <b> built?|How old is <b>?|What is <b> used for?|Which is <age>er: <b> or <b>?
+build -><b>
+
+dumb ->When was <b> built?
+dumb2 -> What is the capital of <c>?
+dumb3 -> How much is the <f> at Sayles?
+dumb4 -> Which of these items are vegetarian: <f>, <f>, or <f>?
+dumb5 -> When was <m> released?
+dumb6 -> How much did <m> make on release?
+dumb7 -> What is the derivative of <fn> with respect to x?
+dumb8 -> <animal> are primarily found within _______ country.
+
 
 c -> $countries.txt
 
-GEOGRAPHY -> What is the capital of <c>?|Which continent is <c> on?|Which country is <age>er: <c> or <c>|Which country and state is the <landmark> located?|<animal> are primarily found within _______ country.
+GEOGRAPHY -> <dumb2>|<dumb8>
 
-SAYLES ->How much is the <f> at Sayles?|Which item costs more: <f> or <f>?|Which of these items are <veg>: <f>, <f>, or <f>?
+SAYLES -><dumb3>|<dumb4>
 
-MOVIE ->When was <m> released?|How much did <m> make on release?|Who was the director of the movie <m>?
+MOVIE -><dumb5>|<dumb6>
 
 MATH -> <ddx>|<arithmetic>|<prob>|<integral>
 

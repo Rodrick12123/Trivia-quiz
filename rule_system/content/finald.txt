@@ -1,0 +1,547 @@
+<BEGIN ENTITIES>
+
+You:Player
+
+Willis Hall:Question
+Goodsell Observatory:Question
+Scoville Library:Question
+Laird:Question
+Sayles-Hill:Question
+Music Hall:Question
+Burton:Question
+Skinner Memorial Chapel:Question
+Nourse Hall:Question
+Leighton Hall:Question
+Davis Hall:Question
+Evans Hall:Question
+Laird Stadium:Question
+Severance Hall:Question
+Boliou Art Hall:Question
+Gould Library:Question
+Musser Hall:Question
+Myers Hall:Question
+Olin Hall of Science:Question
+Goodhue Dormitory:Question
+West Gym:Question
+Cowling Rec Center:Question
+Watson Hall:Question
+Music & Drama Center:Question
+Alumni Guest House/Johnson House:Question
+CMC:Question
+Hulings:Question
+Recreation Center:Question
+Language & Dining Center:Question
+Student Housing:Question
+Cassat & Memorial:Question
+Faculty Art Studios:Question
+Weitz Center:Question
+Weitz Music Addition:Question
+Anderson Hall:Question
+Lyman Lakes:Question
+Bell Field:Question
+Earthwork:Question
+Amphitheater:Question
+Japanese Garden:Question
+Council Ring:Question
+
+Star Wars:Question
+Emoji Movie:Question
+Parasite:Question
+The Lion King:Question
+
+Afghanistan:Question
+Albania:Question
+Algeria:Question
+Andorra:Question
+Angola:Question
+Antigua & Barbuda:Question
+Argentina:Question
+Armenia:Question
+Australia:Question
+Austria:Question
+Azerbaijan:Question
+Bahamas:Question
+Bahrain:Question
+Bangladesh:Question
+Barbados:Question
+Belarus:Question
+Belgium:Question
+Belize:Question
+Benin:Question
+Bhutan:Question
+Bolivia:Question
+Bosnia & Herzegovina:Question
+Botswana:Question
+Brazil:Question
+Brunei:Question
+Bulgaria:Question
+Burkina Faso:Question
+Burundi:Question
+Cambodia:Question
+Cameroon:Question
+Canada:Question
+Cape Verde:Question
+Central African Republic:Question
+Chad:Question
+Chile:Question
+China:Question
+Colombia:Question
+Comoros:Question
+Congo:Question
+Congo Democratic Republic:Question
+Costa Rica:Question
+Cote D'Ivoire:Question
+Croatia:Question
+Cuba:Question
+Cyprus:Question
+Czech Republic:Question
+Denmark:Question
+Djibouti:Question
+Dominica:Question
+Dominican Republic:Question
+East Timor:Question
+Ecuador:Question
+Egypt:Question
+El Salvador:Question
+Equatorial Guinea:Question
+Eritrea:Question
+Estonia:Question
+Ethiopia:Question
+Fiji:Question
+Finland:Question
+France:Question
+Gabon:Question
+Gambia:Question
+Georgia:Question
+Germany:Question
+Ghana:Question
+Greece:Question
+Grenada:Question
+Guatemala:Question
+Guinea:Question
+Guinea-Bissau:Question
+Guyana:Question
+Haiti:Question
+Honduras:Question
+Hungary:Question
+Iceland:Question
+India:Question
+Indonesia:Question
+Iran:Question
+Iraq:Question
+Ireland:Question
+Israel:Question
+Italy:Question
+Jamaica:Question
+Japan:Question
+Jordan:Question
+Kazakhstan:Question
+Kenya:Question
+Kiribati:Question
+Korea North:Question
+Korea South:Question
+Kosovo:Question
+Kuwait:Question
+Kyrgyzstan:Question
+Laos:Question
+Latvia:Question
+Lebanon:Question
+Lesotho:Question
+Liberia:Question
+Libya:Question
+Liechtenstein:Question
+Lithuania:Question
+Luxembourg:Question
+Macedonia:Question
+Madagascar:Question
+Malawi:Question
+Malaysia:Question
+Maldives:Question
+Mali:Question
+Malta:Question
+Marshall Islands:Question
+Mauritania:Question
+Mauritius:Question
+Mexico:Question
+Micronesia:Question
+Moldova:Question
+Monaco:Question
+Mongolia:Question
+Montenegro:Question
+Morocco:Question
+Mozambique:Question
+Myanmar:Question
+Namibia:Question
+Nauru:Question
+Nepal:Question
+New Zealand:Question
+Nicaragua:Question
+Niger:Question
+Nigeria:Question
+Norway:Question
+Oman:Question
+Pakistan:Question
+Palau:Question
+Palestinian State:Question
+Panama:Question
+Papua New Guinea:Question
+Paraguay:Question
+Peru:Question
+Poland:Question
+Portugal:Question
+Qatar:Question
+Romania:Question
+Russia:Question
+Rwanda:Question
+Samoa:Question
+San Marino:Question
+Sao Tome & Principe:Question
+Saudi Arabia:Question
+Senegal:Question
+Serbia:Question
+Seychelles:Question
+Sierra Leone:Question
+Singapore:Question
+Slovakia:Question
+Slovenia:Question
+Solomon Islands:Question
+Somalia:Question
+South Africa:Question
+South Sudan:Question
+Spain:Question
+Sri Lanka:Question
+St. Kitts & Nevis:Question
+St. Lucia:Question
+St. Vincent & The Grenadines:Question
+Sudan:Question
+Suriname:Question
+Swaziland:Question
+Sweden:Question
+Switzerland:Question
+Syria:Question
+Taiwan:Question
+Tajikistan:Question
+Tanzania:Question
+Thailand:Question
+The Netherlands:Question
+The Philippines:Question
+Togo:Question
+Tonga:Question
+Trinidad & Tobago:Question
+Tunisia:Question
+Turkey:Question
+Turkmenistan:Question
+Tuvalu:Question
+Uganda:Question
+Ukraine:Question
+United Arab Emirates:Question
+United Kingdom:Question
+United States Of America:Question
+Uruguay:Question
+Uzbekistan:Question
+Vanuatu:Question
+Vatican City:Question
+Venezuela:Question
+Vietnam:Question
+Yemen:Question
+Zambia:Question
+Zimbabwe:Question
+
+Cheese Quesadilla:Question
+Buffalo Chicken Tender Platter:Question
+French Fries:Question
+Sweet Potato Fries:Question
+Curly Fries:Question
+Onion Rings:Question
+
+x²:Question
+ln(x):Question
+eˣ:Question
+
+polar bears:Question
+lions:Question
+tigers:Question
+grizzly bears:Question
+cobras:Question
+
+<END ENTITIES>
+
+<BEGIN FACTS>
+<Cheese Quesadilla> is veg
+<Buffalo Chicken Tender Platter> is meat
+<French Fries> is veg
+<Sweet Potato Fries> is veg
+<Curly Fries> is veg
+<Onion Rings> is veg
+
+<x²> is 2X
+<ln(x)> is 1/X
+<eˣ> is E^X
+
+<polar bears> is Iceland
+<lions> is Africa
+<tigers> is India
+<grizzly bears> is North America
+<cobras> is India
+
+<Star Wars> is 1999
+<Emoji Movie> is 2017
+<Parasite> is 2019
+<The Lion King> is 1994
+
+<Star Wars> is 474m
+<Emoji Movie> is 217m
+<Parasite> is 148m
+<The Lion King> is 8b
+
+<Cheese Quesadilla> is $4.00
+<Buffalo Chicken Tender Platter> is $5.75
+<French Fries> is $1.50
+<Sweet Potato Fries> is $1.75
+<Curly Fries> is $1.50
+<Onion Rings> is $1.85
+
+
+<You> haven't started
+
+<Willis Hall> is 1872
+<Goodsell Observatory> is 1887
+<Scoville Library> is 1896
+<Laird> is 1905
+<Sayles-Hill> is 1910
+<Music Hall> is 1914
+<Burton> is 1915
+<Skinner Memorial Chapel> is 1916
+<Nourse Hall> is 1917
+<Leighton Hall> is 1920
+<Davis Hall> is 1923
+<Evans Hall> is 1927
+<Laird Stadium> is 1927
+<Severance Hall> is 1928
+<Boliou Art Hall> is 1949
+<Gould Library> is 1956
+<Musser Hall> is 1958
+<Myers Hall> is 1958
+<Olin Hall of Science> is 1961
+<Goodhue Dormitory> is 1962
+<West Gym> is 1964
+<Cowling Rec Center> is 1965
+<Watson Hall> is 1966
+<Music & Drama Center> is 1971
+<Alumni Guest House/Johnson House> is 1992
+<CMC> is 1993
+<Hulings> is 1995
+<Recreation Center> is 1999
+<Language & Dining Center> is 2001
+<Student Housing> is 2001
+<Cassat & Memorial> is 2009
+<Faculty Art Studios> is 2010
+<Weitz Center> is 2011
+<Weitz Music Addition> is 2017 
+<Anderson Hall> is 2019
+<Lyman Lakes> is 1916
+<Bell Field> is 1930
+<Earthwork> is 1973
+<Amphitheater> is 1975
+<Japanese Garden> is 1976
+<Council Ring> is 2007
+
+<Afghanistan> is Kabul
+<Albania> is Tirana
+<Algeria> is Algiers
+<Andorra> is Andorra La Vella
+<Angola> is Luanda
+<Antigua & Barbuda> is St John's 
+<Argentina> is Buenos Aires
+<Armenia> is Yerevan
+<Australia> is Canberra
+<Austria> is Vienna
+<Azerbaijan> is Baku
+<Bahamas> is Nassau
+<Bahrain> is Manama
+<Bangladesh> is Dhaka
+<Barbados> is Bridgetown
+<Belarus> is Minsk
+<Belgium> is Brussels
+<Belize> is Belmopan
+<Benin> is Porto-Novo
+<Bhutan> is Thimphu
+<Bolivia> is La Paz
+<Bosnia & Herzegovina> is Sarajevo
+<Botswana> is Gaborone
+<Brazil> is Brasilia
+<Brunei> is Bandar Seri Begawan
+<Bulgaria> is Sofia
+<Burkina Faso> is Ouagadougou
+<Burundi> is Gitega
+<Cambodia> is Phnom Penh
+<Cameroon> is Yaounde
+<Canada> is Ottawa
+<Cape Verde> is Praia
+<Central African Republic> is Bangui 
+<Chad> is N'Djamena
+<Chile> is Santiago
+<China> is Beijing
+<Colombia> is Bogota
+<Comoros> is Moroni
+<Congo> is Brazzaville
+<Congo Democratic Republic> is Kinshasa 
+<Costa Rica> is San Jose
+<Cote D'Ivoire> is Yamoussoukro
+<Croatia> is Zagreb
+<Cuba> is Havana
+<Cyprus> is Nicosia
+<Czech Republic> is Prague
+<Denmark> is Copenhagen
+<Djibouti> is Djibouti
+<Dominica> is Roseau
+<Dominican Republic> is Santo Domingo 
+<East Timor> is Dili
+<Ecuador> is Quito
+<Egypt> is Cairo
+<El Salvador> is San Salvador
+<Equatorial Guinea> is Malabo
+<Eritrea> is Asmara
+<Estonia> is Tallinn
+<Ethiopia> is Addis Ababa
+<Fiji> is Suva
+<Finland> is Helsinki
+<France> is Paris
+<Gabon> is Libreville
+<Gambia> is Banjul
+<Georgia> is Tbilisi
+<Germany> is Berlin
+<Ghana> is Accra
+<Greece> is Athens
+<Grenada> is St George's
+<Guatemala> is Guatemala City
+<Guinea> is Conakry
+<Guinea-Bissau> is Bissau
+<Guyana> is Georgetown
+<Haiti> is Port-au-prince
+<Honduras> is Tegucigalpa
+<Hungary> is Budapest
+<Iceland> is Reykjavik
+<India> is New Delhi
+<Indonesia> is Jakarta
+<Iran> is Tehran
+<Iraq> is Baghdad
+<Ireland> is Dublin
+<Israel> is Jerusalem
+<Italy> is Rome
+<Jamaica> is Kingston
+<Japan> is Tokyo
+<Jordan> is Amman
+<Kazakhstan> is Nur-Sultan
+<Kenya> is Nairobi
+<Kiribati> is Tarawa
+<Korea North> is Pyongyang
+<Korea South> is Seoul
+<Kosovo> is Pristina
+<Kuwait> is Kuwait City
+<Kyrgyzstan> is Bishkek
+<Laos> is Vientiane
+<Latvia> is Riga
+<Lebanon> is Beirut
+<Lesotho> is Maseru
+<Liberia> is Monrovia
+<Libya> is Tripoli
+<Liechtenstein> is Vaduz 
+<Lithuania> is Vilnius
+<Luxembourg> is Luxembourg
+<Macedonia> is Skopje
+<Madagascar> is Antananarivo
+<Malawi> is Lilongwe
+<Malaysia> is Kuala Lumpur
+<Maldives> is Male
+<Mali> is Bamako
+<Malta> is Valletta
+<Marshall Islands> is Majuro
+<Mauritania> is Nouakchott
+<Mauritius> is Port Louis
+<Mexico> is Mexico City
+<Micronesia> is Palikir
+<Moldova> is Chisinau
+<Monaco> is Monaco
+<Mongolia> is Ulaanbaatar
+<Montenegro> is Podgorica
+<Morocco> is Rabat
+<Mozambique> is Maputo
+<Myanmar> is Naypyidaw
+<Namibia> is Windhoek
+<Nauru> is Yaren
+<Nepal> is Kathmandu
+<New Zealand> is Wellington
+<Nicaragua> is Managua
+<Niger> is Niamey
+<Nigeria> is Abuja
+<Norway> is Oslo
+<Oman> is Muscat
+<Pakistan> is Islamabad
+<Palau> is Ngerulmud
+<Palestinian State> is Ramallah 
+<Panama> is Panama City
+<Papua New Guinea> is Port Moresby
+<Paraguay> is Asuncion
+<Peru> is Lima
+<Poland> is Warsaw
+<Portugal> is Lisbon
+<Qatar> is Doha
+<Romania> is Bucharest
+<Russia> is Moscow
+<Rwanda> is Kigali
+<Samoa> is Apia
+<San Marino> is San Marino
+<Sao Tome & Principe> is Sao Tome
+<Saudi Arabia> is Riyadh
+<Senegal> is Dakar
+<Serbia> is Belgrade
+<Seychelles> is Victoria
+<Sierra Leone> is Freetown
+<Singapore> is Singapore
+<Slovakia> is Bratislava
+<Slovenia> is Ljubljana
+<Solomon Islands> is Honiara
+<Somalia> is Mogadishu
+<South Africa> is Pretoria
+<South Sudan> is Juba
+<Spain> is Madrid
+<Sri Lanka> is Sri Jayawardenepura Kotte
+<St. Kitts & Nevis> is Basseterre
+<St. Lucia> is Castries
+<St. Vincent & The Grenadines> is Kingstown
+<Sudan> is Khartoum
+<Suriname> is Paramaribo
+<Swaziland> is Mbabane
+<Sweden> is Stockholm
+<Switzerland> is Bern
+<Syria> is Damascus
+<Taiwan> is Taipei
+<Tajikistan> is Dushanbe
+<Tanzania> is Dodoma
+<Thailand> is Bangkok
+<The Netherlands> is Amsterdam
+<The Philippines> is Manila
+<Togo> is Lome
+<Tonga> is Nuku'alofa
+<Trinidad & Tobago> is Port of Spain
+<Tunisia> is Tunis
+<Turkey> is Ankara
+<Turkmenistan> is Ashgabat
+<Tuvalu> is Funafuti
+<Uganda> is Kampala
+<Ukraine> is Kyiv
+<United Arab Emirates> is Abu Dhabi
+<United Kingdom> is London
+<United States Of America> is Washington DC
+<Uruguay> is Montevideo
+<Uzbekistan> is Tashkent
+<Vanuatu> is Port Vila
+<Vatican City> is Vatican City
+<Venezuela> is Caracas
+<Vietnam> is Hanoi
+<Yemen> is Sana'a
+<Zambia> is Lusaka
+<Zimbabwe> is Harare
+
+<END FACTS>

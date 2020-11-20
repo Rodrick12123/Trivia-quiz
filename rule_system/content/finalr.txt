@@ -1,1 +1,74 @@
+$Start
+"{P} have started. Good luck."
+roles:
+  P:Player
+preconditions:
+  (P haven't started)
+effects:
+  !(P haven't started)
+  (P playing)
 
+$Guess
+"{P} guess {G} for {Q}"
+roles:
+	P:Player
+	G:Guess
+  Q:Question
+preconditions:
+  (Q is question)
+	(P playing)
+  !(guessed G for Q)
+effects:
+	(guessed G for Q)
+  !(Q is question)
+
+$Correct
+"{P} are right, {G} is correct!"
+roles:
+  P:Player
+  G:Guess
+  Q:Question
+preconditions:
+  (guessed G for Q)
+  (P playing)
+  (Q is G)
+  !(P solved Q)
+effects:
+  (P solved Q)
+  !(guessed G for Q)
+  !(Q is G)
+  (Q is correct)
+
+$Wrong
+"{P} guessed incorrectly!"
+roles:
+  P:Player
+  G:Guess
+  Q:Question
+preconditions:
+  (guessed G for Q)
+  (P playing)
+  !(Q is G)
+  !(P solved Q)
+  !(Q incorrect)
+effects:
+  (Q incorrect)
+  (Q is question)
+
+$Lose
+"{P} are wrong!"
+roles:
+  P:Player
+  G:Guess
+  Q:Question
+preconditions:
+  (guessed G for Q)
+  (P playing)
+  !(Q is G)
+  !(P solved Q)
+  (Q incorrect)
+effects:
+  (P solved Q)
+  !(Q incorrect)
+  !(guessed G for Q)
+  !(Q is G)
