@@ -32,11 +32,8 @@ preconditions:
   (guessed G for Q)
   (P playing)
   (Q is G)
-  !(P solved Q)
 effects:
-  (P solved Q)
   !(guessed G for Q)
-  !(Q is G)
   (Q is correct)
 
 $Wrong
@@ -49,7 +46,6 @@ preconditions:
   (guessed G for Q)
   (P playing)
   !(Q is G)
-  !(P solved Q)
   !(Q incorrect)
 effects:
   (Q incorrect)
@@ -65,10 +61,8 @@ preconditions:
   (guessed G for Q)
   (P playing)
   !(Q is G)
-  !(P solved Q)
   (Q incorrect)
 effects:
-  (P solved Q)
   !(Q incorrect)
   !(guessed G for Q)
   !(Q is G)

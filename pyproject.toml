@@ -9,4 +9,5 @@ name = "repl_python3_Homework-6-Book-Generation"
 version = "0.1.0"
 [tool.poetry.dependencies]
 python = "^3.8"
+sympy = "^1.6.2"
 [tool.poetry.dev-dependencies]

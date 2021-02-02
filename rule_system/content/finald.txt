@@ -418,7 +418,7 @@ cobras:Question
 <Guinea> is Conakry
 <Guinea-Bissau> is Bissau
 <Guyana> is Georgetown
-<Haiti> is Port-au-prince
+<Haiti> is Port-Au-Prince
 <Honduras> is Tegucigalpa
 <Hungary> is Budapest
 <Iceland> is Reykjavik
@@ -540,7 +540,7 @@ cobras:Question
 <Vatican City> is Vatican City
 <Venezuela> is Caracas
 <Vietnam> is Hanoi
-<Yemen> is Sana'a
+<Yemen> is Sana'A
 <Zambia> is Lusaka
 <Zimbabwe> is Harare
 

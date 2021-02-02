@@ -1,5 +1,6 @@
-WELCOME -> Welcome to Blackcofin x Supereduardus' grammogenmo!
-
+WELCOME -> Welcome to Blackcofin x Supereduardus' <adj> grammogenmo!
+adj -> $adjectives.txt
+inj -> $interjections.txt
 test -> <BUILDING>|<GEOGRAPHY>|<SAYLES>|<MOVIE>|<MATH>
 DOMAIN ->[BEGIN ENTITIES]\n<build>
 
@@ -33,8 +34,8 @@ MOVIE -><dumb5>|<dumb6>
 
 MATH -> <ddx>|<arithmetic>|<prob>|<integral>
 
-fn -> x²|ln(x)|eˣ|<fn><fn>
-n -> 1
+fn -> x**<n>|<n>|exp(x)|<fn> + <fn>|<fn> - <fn>
+n -> 1|2|3|4|5|6|7|8|9|<n><n>
 o -> +|-|/|*|**|│|&
 d -> Unif(0,n)|N(μ=<n>,σ²=<n>)|Exp(β=<n>)|Pois(λ=<n>)
 comp -> greater than|less than|equal to
